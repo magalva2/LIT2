@@ -1,0 +1,174 @@
+{
+  "feed": [
+    {
+      "name": "Cake",
+      "id": "1",
+      "logo": "/images/cakelogo.png",
+      "accent": "/images/cake.jpg",
+      "summary": "Posh, chandelier-filled nightclub featuring bottle service, scantily clad “Cake Dolls” & DJ nights.",
+      "type": "Bar",
+      "crowd": "21+",
+      "hours": "Monday\n12am - 12pm\nTuesday\nClosed\nWednesday\nClosed\nThursday\nClosed\nFriday\n10:30pm - 2am\nSaturday\n10:30pm - 2am\nSunday\n8:30pm - 12am",
+      "map": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/place?q=cake%20scottsdake&key=AIzaSyAjRTokyB4jyctio2Z9FWHt2lp0Kc-yiCs\" allowfullscreen></iframe>",
+      "social": {
+        "facebook": "https://www.facebook.com/cakenightclubscottsdale/",
+        "twitter": "https://twitter.com/cakenightclub/",
+        "snapchat": "",
+        "instagram": "https://www.instagram.com/CakeScottsdale/"
+      }
+    },
+    {
+      "name": "Maya",
+      "id": "2",
+      "logo": "/images/mayalogo.png",
+      "accent": "/images/maya.jpg",
+      "summary": "Indoor/outdoor club with a Las Vegas vibe offering daytime pool parties, bottle service & DJ nights.",
+      "type": "Day and Nightclub",
+      "crowd": "21+",
+      "hours": "Monday\nClosed\nTuesday\nClosed\nWednesday\nClosed\nThursday\nClosed\nFriday\n10:00 pm - 2:00am\nSaturday\n10:00 pm - 2:00am\nSunday\nClosed",
+      "map": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/place?q=maya%20scottsdale&key=AIzaSyAjRTokyB4jyctio2Z9FWHt2lp0Kc-yiCs\" allowfullscreen></iframe>",
+      "social": {
+        "facebook": "https://www.facebook.com/MayaClubAZ/",
+        "twitter": "https://twitter.com/mayaclubaz/",
+        "snapchat": "https://www.snapchat.com/add/MAYACLUBAZ",
+        "instagram": "https://www.instagram.com/mayaclubaz/"
+      }
+    },
+    {
+      "name": "El Hefe",
+      "id": "3",
+      "logo": "/images/hefelogo.png",
+      "accent": "/images/elhefe.jpg",
+      "summary": "Blends the best Mexican food menu and Mexican Restaurant experience with today's highest energy nightlife including the best in EDM, Hip-Hop, and Top 40.",
+      "type": "Sports Bar & Night Club",
+      "crowd": "21+",
+      "hours": "Monday\n12am - 12pm\nTuesday\nClosed\nWednesday\nClosed\nThursday\nClosed\nFriday\n10:30pm - 2am\nSaturday\n10:30pm - 2am\nSunday\n8:30pm - 12am",
+      "map": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/place?q=El%20hefe%20scottsdale&key=AIzaSyAjRTokyB4jyctio2Z9FWHt2lp0Kc-yiCs\" allowfullscreen></iframe>",
+      "social": {
+        "facebook": "https://www.facebook.com/elhefescottsdale/",
+        "twitter": "https://twitter.com/elhefetacos/",
+        "snapchat": "https://www.snapchat.com/add/ELHEFELIVE",
+        "instagram": "https://www.instagram.com/elhefescottsdale/"
+      }
+    },
+    {
+      "name": "Mint",
+      "id": "4",
+      "logo": "/images/mintlogo.png",
+      "accent": "/images/mint.jpg",
+      "summary": "Upscale Asian restaurant & lounge in a former bank that morphs into a posh dance club at night.",
+      "type": "Night Club",
+      "crowd": "21+",
+      "hours": "Monday\nClosed\nTuesday\nClosed\nWednesday\n9:00 pm - 2:00 am\nThursday\nClosed\nFriday\n9:00 pm - 2:00 am\nSaturday\n9:00 pm - 2:00 am\nSunday\nClosed",
+      "map": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/place?q=mint%20scottsdale&key=AIzaSyAjRTokyB4jyctio2Z9FWHt2lp0Kc-yiCs\" allowfullscreen></iframe>",
+      "social": {
+        "facebook": "https://www.facebook.com/TheMintAZ/",
+        "twitter": "https://twitter.com/themintAZ/",
+        "snapchat": "",
+        "instagram": "https://www.instagram.com/themintaz/"
+      }
+    },
+    {
+      "name": "Int'l",
+      "id": "5",
+      "logo": "/images/internationallogo.png",
+      "accent": "/images/international.jpg",
+      "summary": "Dance club hosting touring DJs in a stylish space with high-tech lighting & lingerie-clad servers.",
+      "type": "Night Club",
+      "crowd": "21+",
+      "hours": "Monday\nClosed\nTuesday\nClosed\nWednesday\nClosed\nThursday\nClosed\nFriday\n10:00 pm - 2:00am\nSaturday\n10:00 pm - 2:00am\nSunday\n10:00 pm - 2:00am",
+      "map": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/place?q=international%20scottsdale&key=AIzaSyAjRTokyB4jyctio2Z9FWHt2lp0Kc-yiCs\" allowfullscreen></iframe>",
+      "social": {
+        "facebook": "https://www.facebook.com/INTLAZ/",
+        "twitter": "https://twitter.com/IntlAZ/",
+        "snapchat": "",
+        "instagram": "https://www.instagram.com/intlaz/"
+      }
+    },
+    {
+      "name": "Livewire",
+      "id": "6",
+      "logo": "/images/livewirelogo.png",
+      "accent": "/images/livewire.jpg",
+      "summary": "Live music venue in Scottsdale, Arizona.",
+      "type": "Live Music Venue",
+      "crowd": "Age Varies",
+      "hours": "Monday\n12:00 pm - 6:00 pm\nTuesday\n12:00 pm - 6:00 pm\nWednesday\n12:00 pm - 6:00 pm\nThursday\n12:00 pm - 6:00 pm\nFriday\n12:00 pm - 6:00 pm\nSaturday\n12:00 pm - 2:00 am\nSunday\n12:00 pm - 2:00 am",
+      "map": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/place?q=livewire%20scottsdale&key=AIzaSyAjRTokyB4jyctio2Z9FWHt2lp0Kc-yiCs\" allowfullscreen></iframe>",
+      "social": {
+        "facebook": "https://www.facebook.com/LivewireScottsdale/",
+        "twitter": "https://twitter.com/LivewireAZ/",
+        "snapchat": "",
+        "instagram": "https://www.instagram.com/livewireaz/"
+      }
+    },
+    {
+      "name": "Wasted Grain",
+      "id": "7",
+      "logo": "/images/wastedgrainlogo.png",
+      "accent": "/images/wastedgrain.jpg",
+      "summary": "This vibrant nightclub features open concert areas, a dance floor & upscale lounge, plus 3 bars.",
+      "type": "Bar / Night Club",
+      "crowd": "21+",
+      "hours": "Monday\nClosed\nTuesday\nClosed\nWednesday\n3:00 pm - 12:00 am\nThursday\n3:00 pm - 2:00 am\nFriday\n3:00 pm - 2:00 am\nSaturday\n3:00 pm - 2:00 am\nSunday\n3:00 pm - 2:00 am",
+      "map": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/place?q=wasted%20grain%20scottsdale&key=AIzaSyAjRTokyB4jyctio2Z9FWHt2lp0Kc-yiCs\" allowfullscreen></iframe>",
+      "social": {
+        "facebook": "https://www.facebook.com/wastedgrainscottsdale/",
+        "twitter": "https://twitter.com/Wasted_GrainAZ/",
+        "snapchat": "",
+        "instagram": "https://www.instagram.com/wastedgrainscottsdale/"
+      }
+    },
+    {
+      "name": "Whiskey Row",
+      "id": "8",
+      "logo": "/images/whiskeyrowlogo.png",
+      "accent": "/images/whiskeyrow.jpg",
+      "summary": "The first of its kind to enter Scottsdale; Whiskey Row has an old school country flare with a Scottsdale twist. Hip hangout offering modern comfort food, self-serve beer contraptions, plus DJs & live music.",
+      "type": "Country Bar",
+      "crowd": "21+",
+      "hours": "Monday\n12am - 12pm\nTuesday\nClosed\nWednesday\nClosed\nThursday\nClosed\nFriday\n10:30pm - 2am\nSaturday\n10:30pm - 2am\nSunday\n8:30pm - 12am",
+      "map": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/place?q=whiskey%20row%20scottsdale&key=AIzaSyAjRTokyB4jyctio2Z9FWHt2lp0Kc-yiCs\" allowfullscreen></iframe>",
+      "social": {
+        "facebook": "https://www.facebook.com/DierksWhiskeyRowScottsdale/",
+        "twitter": "https://twitter.com/whiskeyrow/",
+        "snapchat": "https://www.snapchat.com/add/whiskeyrowlive",
+        "instagram": "https://www.instagram.com/dierkswhiskeyrow/"
+      }
+    },
+    {
+      "name": "Bottled Blonde",
+      "id": "9",
+      "logo": "/images/bottledblondelogo.png",
+      "accent": "/images/bottledblonde.jpg",
+      "summary": "This hip spot for pizza & elevated bar bites features games, ample outdoor seating & craft beers.",
+      "type": "Restaurant / Bar",
+      "crowd": "21+",
+      "hours": "Monday\n3:00 pm - 2:00 am\nTuesday\n3:00 pm - 2:00 am\nWednesday\n3:00 pm - 2:00 am\nThursday\n3:00 pm - 2:00 am\nFriday\n3:00 pm - 2:00 am\nSaturday\n11:00 am - 2:00am\nSunday\n11:00 am - 2:00 am",
+      "map": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/place?q=bottled%20blonde%20scottsdale&key=AIzaSyAjRTokyB4jyctio2Z9FWHt2lp0Kc-yiCs\" allowfullscreen></iframe>",
+      "social": {
+        "facebook": "https://www.facebook.com/bottledblondeaz/",
+        "twitter": "https://twitter.com/BottledBlondeAZ/",
+        "snapchat": "",
+        "instagram": "https://www.instagram.com/bottledblondeaz/"
+      }
+    },
+    {
+      "name": "Dakota",
+      "id": "10",
+      "logo": "/images/dakotalogo.png",
+      "accent": "/images/dakota.jpg",
+      "summary": "Stylish outpost offering American fare, cocktails, a large patio & a club atmosphere on weekends.",
+      "type": "Restaurant / Bar",
+      "crowd": "21+",
+      "hours": "Monday\n11:00 am - 12:00 am\nTuesday\n11:00 am - 12:00 am\nWednesday\n11:00 am - 12:00 am\nThursday\n11:00 am - 2:00 am\nFriday\n11:00 am - 2:00 am\nSaturday\n9:00 am - 2:00 am\nSunday\n9:00 am - 12:00 am",
+      "map": "<iframe width=\"100%\" height=\"250\" frameborder=\"0\" style=\"border:0\" src=\"https://www.google.com/maps/embed/v1/place?q=dakota%20scottsdale&key=AIzaSyAjRTokyB4jyctio2Z9FWHt2lp0Kc-yiCs\" allowfullscreen></iframe>",
+      "social": {
+        "facebook": "https://www.facebook.com/dakotabaraz/",
+        "twitter": "https://twitter.com/dakotabaraz/",
+        "snapchat": "",
+        "instagram": "https://www.instagram.com/dakotabaraz/"
+      }
+    }
+  ]
+}

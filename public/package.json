@@ -1,0 +1,24 @@
+{
+  "name": "litnightlife",
+  "version": "1.0.0",
+  "description": "Web Application that shows people which nightclub/bar is their best fit for any given night in real time. Lit uses a mix of social media aggregation and static characteristics of each bar to provide a \"best fit\" destination in accordance to individual users.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "errorhandler": "^1.4.3",
+    "express": "^3.1.2",
+    "method-override": "^2.3.5",
+    "mongodb": "^2.0.55",
+    "mongoskin": "^2.0.3",
+    "stylus": "^0.54.5",
+    "swig": "^1.4.2",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Alisha Bussart (Front End Developer)",
+  "license": "ISC"
+}
